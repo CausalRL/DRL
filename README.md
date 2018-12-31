@@ -61,5 +61,5 @@ model_config['policy_checkpoint'] = './training_results/policy_checkpoints/polic
 
 ##References
 
-[1] [Deconfounding Reinforcement Learning in Observational Settings](Undefined yet)
+[1] [Deconfounding Reinforcement Learning in Observational Settings](https://arxiv.org/abs/1812.10576)
 Chaochao Lu, Bernhard Schölkopf, José Miguel Hernández-Lobato, 2018

@@ -3,7 +3,7 @@ This repository contains a clean version of the code for the Deconfounding Reinf
 model as developed at [1]. The code is easy to modify for your own applications. It is
 worth noting that this is my first work within the charming but mysterious kingdom of Causal Reinforcement
 Learning (CausalRL). Undoubtedly, CausalRL will become an indispensable part of
-Artificial General Intelligence (AGI). Please refer to [CausalRL](http://www.causallu.com/CausalRL.htm) for more details.
+Artificial General Intelligence (AGI). Please refer to [CausalRL](https://causallu.com/2018/12/31/introduction-to-causalrl/) for more details.
 
 ## Running Environment
 Only tested the codes on 
